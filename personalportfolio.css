@@ -1,0 +1,20 @@
+#s1{background-color:rgb(249, 124, 165); padding-bottom: 5px;padding-top: 10px;}
+#s2{background-color: bisque;}
+
+img{height: 100px;width: 100px; border-radius: 50px;}
+.AM{
+    border: 2px dashed blue;
+    display: inline;
+    margin-left: 46.5%
+}
+p{text-align: center;}
+h1{text-align: center;}
+h3{text-align: center;}
+#s3{background-color: cornsilk}
+table,th,tr,td{ border: 2px black solid;align-self: center;}
+td{text-align: center;padding: 50px;}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
